@@ -7,3 +7,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0699. 🎨 style: standardize quote style
 0817. 🔧 refactor: remove redundant code blocks
+0892. ✅ test: add unit test for quiz service
