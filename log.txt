@@ -18,3 +18,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0582. ✨ feat: add export to CSV option
 0824. 🚀 perf: lazy-load components
+0723. 🔧 refactor: remove redundant code blocks
