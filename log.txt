@@ -19,3 +19,4 @@
 0582. ✨ feat: add export to CSV option
 0824. 🚀 perf: lazy-load components
 0723. 🔧 refactor: remove redundant code blocks
+0830. 🎨 style: apply consistent indentation
