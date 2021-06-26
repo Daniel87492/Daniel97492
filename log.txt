@@ -29,3 +29,4 @@
 0660. 🐛 fix: correct typo in registration form
 0961. 📚 docs: add API usage examples
 0866. 📚 docs: add API usage examples
+0566. 📚 docs: write FAQ section
