@@ -31,3 +31,4 @@
 0866. 📚 docs: add API usage examples
 0566. 📚 docs: write FAQ section
 0633. ✨ feat: add user authentication
+0809. ♻️ chore: rename env.example
