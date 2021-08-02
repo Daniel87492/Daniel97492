@@ -33,3 +33,4 @@
 0633. ✨ feat: add user authentication
 0809. ♻️ chore: rename env.example
 0091. ✨ feat: add user authentication
+0378. 🐛 fix: prevent crash on empty input
