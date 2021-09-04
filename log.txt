@@ -36,3 +36,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0929. ✨ feat: support email verification
 0351. ✨ feat: add export to CSV option
+0049. 🐛 fix: handle 500 error in quiz API
