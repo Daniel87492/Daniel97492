@@ -38,3 +38,4 @@
 0351. ✨ feat: add export to CSV option
 0049. 🐛 fix: handle 500 error in quiz API
 0214. 📚 docs: improve code comments in utils
+0546. 🐛 fix: fix null pointer exception on login
