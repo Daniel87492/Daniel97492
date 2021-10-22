@@ -41,3 +41,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0673. 🐛 fix: correct typo in registration form
 0943. 🎨 style: rename variables for clarity
+0805. ♻️ chore: add GitHub actions badge
