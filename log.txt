@@ -52,3 +52,4 @@
 0333. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
 0213. ✅ test: add integration test for /submit endpoint
+0324. 📚 docs: document token refresh logic
