@@ -56,3 +56,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0175. 📚 docs: add API usage examples
 0118. 🚀 perf: reduce image load time
+0112. ✨ feat: enable dark mode toggle
