@@ -70,3 +70,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0788. 📚 docs: add API usage examples
 0090. ✅ test: increase coverage on auth module
+0352. ✨ feat: add export to CSV option
