@@ -80,3 +80,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0902. ✨ feat: enable dark mode toggle
 0692. ✅ test: add integration test for /submit endpoint
+0412. ✅ test: increase coverage on auth module
