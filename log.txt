@@ -81,3 +81,4 @@
 0902. ✨ feat: enable dark mode toggle
 0692. ✅ test: add integration test for /submit endpoint
 0412. ✅ test: increase coverage on auth module
+0769. ✨ feat: create admin dashboard
