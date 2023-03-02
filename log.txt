@@ -86,3 +86,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0385. ♻️ chore: clean up unused files
 0598. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
