@@ -93,3 +93,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0345. 📚 docs: document token refresh logic
 0266. 🔧 refactor: remove redundant code blocks
+0418. ✅ test: mock database connection in test suite
