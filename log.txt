@@ -97,3 +97,4 @@
 0382. 📚 docs: improve code comments in utils
 0312. ✨ feat: add user authentication
 0493. ✨ feat: add user authentication
+0305. ✨ feat: enable dark mode toggle
