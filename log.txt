@@ -100,3 +100,4 @@
 0305. ✨ feat: enable dark mode toggle
 0050. ✨ feat: enable dark mode toggle
 0797. 📚 docs: add API usage examples
+0102. ✨ feat: support email verification
