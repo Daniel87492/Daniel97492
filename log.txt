@@ -102,3 +102,4 @@
 0797. 📚 docs: add API usage examples
 0102. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
+0848. 📚 docs: update README with setup steps
