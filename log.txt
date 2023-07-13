@@ -103,3 +103,4 @@
 0102. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
 0848. 📚 docs: update README with setup steps
+0847. ♻️ chore: clean up unused files
