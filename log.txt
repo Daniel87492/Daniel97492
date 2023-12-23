@@ -124,3 +124,4 @@
 0330. ✅ test: test user registration edge cases
 0717. 🔧 refactor: refactor quiz grading logic
 0903. ✅ test: mock database connection in test suite
+0248. 🐛 fix: handle 500 error in quiz API
