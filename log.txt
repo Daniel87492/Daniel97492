@@ -129,3 +129,4 @@
 0033. 🎨 style: apply consistent indentation
 0654. ✨ feat: create admin dashboard
 0336. ✨ feat: add export to CSV option
+0711. 🐛 fix: fix broken CSS in mobile view
