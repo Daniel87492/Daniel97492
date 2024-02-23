@@ -131,3 +131,4 @@
 0336. ✨ feat: add export to CSV option
 0711. 🐛 fix: fix broken CSS in mobile view
 0834. ✅ test: increase coverage on auth module
+0290. ✅ test: test user registration edge cases
