@@ -133,3 +133,4 @@
 0834. ✅ test: increase coverage on auth module
 0290. ✅ test: test user registration edge cases
 0663. 🚀 perf: reduce image load time
+0486. ✨ feat: add export to CSV option
