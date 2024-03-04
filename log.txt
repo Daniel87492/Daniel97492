@@ -134,3 +134,4 @@
 0290. ✅ test: test user registration edge cases
 0663. 🚀 perf: reduce image load time
 0486. ✨ feat: add export to CSV option
+0018. 🔧 refactor: organize models into subfolders
