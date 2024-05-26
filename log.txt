@@ -143,3 +143,4 @@
 0820. 📚 docs: add API usage examples
 0610. 🚀 perf: lazy-load components
 0195. 📚 docs: clarify environment setup
+0241. 📚 docs: add API usage examples
