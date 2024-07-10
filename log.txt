@@ -151,3 +151,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0350. 🚀 perf: cache repeated calculations
 0181. ♻️ chore: add GitHub actions badge
+0292. 📚 docs: clarify environment setup
