@@ -153,3 +153,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0292. 📚 docs: clarify environment setup
 0158. 📚 docs: clarify environment setup
+0464. 🎨 style: remove trailing whitespace
