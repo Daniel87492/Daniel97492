@@ -160,3 +160,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0971. 🎨 style: standardize quote style
 0310. 🔧 refactor: refactor quiz grading logic
+0268. 🐛 fix: prevent crash on empty input
