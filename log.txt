@@ -163,3 +163,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0191. 🔧 refactor: refactor quiz grading logic
 0296. 🔧 refactor: organize models into subfolders
+0613. 🐛 fix: prevent crash on empty input
