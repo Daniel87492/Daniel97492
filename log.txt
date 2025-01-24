@@ -172,3 +172,4 @@
 0786. ✨ feat: enable dark mode toggle
 0956. 📚 docs: clarify environment setup
 0639. 🐛 fix: correct typo in registration form
+0670. ✨ feat: add export to CSV option
