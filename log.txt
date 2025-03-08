@@ -175,3 +175,4 @@
 0670. ✨ feat: add export to CSV option
 0217. 🚀 perf: reduce image load time
 0051. ✨ feat: enable dark mode toggle
+0136. 🚀 perf: lazy-load components
