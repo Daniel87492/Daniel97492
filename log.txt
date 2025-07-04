@@ -193,3 +193,4 @@
 0962. ✨ feat: create admin dashboard
 0140. 🐛 fix: handle 500 error in quiz API
 0166. 🚀 perf: cache repeated calculations
+0253. 📚 docs: update README with setup steps
